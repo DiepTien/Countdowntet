@@ -4,7 +4,7 @@ betterpath==0.2.2
 boto==2.48.0
 boto3==1.4.8
 botocore==1.8.7
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.10.0
 characteristic==14.3.0
 chardet==3.0.4
